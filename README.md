@@ -13,7 +13,8 @@
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white&style=for-the-badge)
 <!-- Cybersecurity Tools -->
 ![OWASP](https://img.shields.io/badge/owasp-%231B1F23.svg?style=for-the-badge&logo=OWASP&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -23,7 +24,7 @@
 ![Nmap](https://img.shields.io/badge/nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
 ![Suricata](https://img.shields.io/badge/suricata-DC1C1C?style=for-the-badge&logo=suricata&logoColor=white)
 ![Snort](https://img.shields.io/badge/snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
-
+![Shodan Logo](https://img.shields.io/badge/shodan-black?logo=shodan)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NOVASWAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NOVASWAY&theme=dark&hide_border=false)<br/>
