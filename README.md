@@ -24,7 +24,7 @@
 ![Nmap](https://img.shields.io/badge/nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
 ![Suricata](https://img.shields.io/badge/suricata-DC1C1C?style=for-the-badge&logo=suricata&logoColor=white)
 ![Snort](https://img.shields.io/badge/snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
-![Shodan Logo](https://img.shields.io/badge/shodan-black?logo=shodan)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?logo=shodan&logoColor=white&style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NOVASWAY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NOVASWAY&theme=dark&hide_border=false)<br/>
