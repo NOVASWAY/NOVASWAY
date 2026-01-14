@@ -1,6 +1,3 @@
-Hi I am Njau Wangari a Cybersecurity student. 
-Aspiring to be a cloud security engineer and pentester.
-Interested in learning anything and everything.
 # 💻 Tech Stack:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
