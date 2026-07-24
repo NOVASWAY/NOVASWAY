@@ -57,34 +57,6 @@
 
 ---
 
-## **`⟐ STATS ⟐`**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NOVASWAY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00F0FF&icon_color=BD93F9&text_color=A9B7C6&bg_color=0D1117&hide_title=false&border_color=00F0FF" width="480">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOVASWAY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&line_height=20&title_color=00F0FF&text_color=A9B7C6&bg_color=0D1117&border_color=00F0FF" width="400">
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NOVASWAY&theme=dark&hide_border=false" width="500">
-
-</div>
-
----
-
-## **`⟐ TROPHIES ⟐`**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NOVASWAY&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%">
-
-</div>
-
----
-
 ## **`⟐ CONTRIBUTION GRAPH — ARCADE MODE ⟐`**
 
 <div align="center">
