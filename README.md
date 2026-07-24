@@ -9,9 +9,9 @@
  ╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
 ```
 
-**`> CYBERNETIC ENGINEER // DIGITAL ARCHITECT // SYSTEM ARCHITECT`**
+**`> CYBERSECURITY STUDENT // SYSTEMS ENTHUSIAST // LIFELONG LEARNER`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Infiltrating+Systems.+Building+Resilience.;Breaking+Barriers.+Securing+Networks.;Code+is+my+weapon.+Logic+is+my+shield.;%F0%9F%94%84+Constantly+Evolving.&&&font=Fira%20Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Infiltrating+Systems.+Building+Resilience.;Breaking+Barriers.+Securing+Networks.;Code+is+my+weapon.+Logic+is+my+shield.;%F0%9F%94%84+Constantly+Evolving.)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+to+Secure+the+Grid.;Exploring+Systems.+One+Hack+at+a+Time.;Code+is+my+Apprentice+Weapon.;%F0%9F%94%84+Still+Loading...)</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/NOVASWAY?label=Followers&style=for-the-badge&color=00F0FF)](https://github.com/NOVASWAY?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=Profile%20Views&color=00F0FF&style=for-the-badge)](https://github.com/NOVASWAY)
@@ -29,20 +29,20 @@
 │                    ◈  SYSTEMS & INFRASTRUCTURE  ◈                  │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│   [████████████████████████████████████████]  95%                   │
-│   ◈ LINUX — The Matrix of Operating Systems                       │
+│   [████████████████████████████░░░░░░░░░░░░]  65%                   │
+│   ◈ LINUX — Still Navigating the Matrix                           │
 │                                                                     │
-│   [███████████████████████████████████░░░░░]  88%                   │
-│   ◈ DOCKER — Containerizing Reality                               │
+│   [██████████████████░░░░░░░░░░░░░░░░░░░░░░]  45%                   │
+│   ◈ DOCKER — Learning to Containerize                             │
 │                                                                     │
-│   [████████████████████████████████░░░░░░░░]  82%                   │
-│   ◈ KUBERNETES — Orchestrating the Swarm                          │
+│   [██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░]  35%                   │
+│   ◈ KUBERNETES — Exploring the Swarm                              │
 │                                                                     │
-│   [█████████████████████████████░░░░░░░░░░░]  76%                   │
-│   ◈ NGINX — Gateway Controller                                    │
+│   [████████████████░░░░░░░░░░░░░░░░░░░░░░░░]  42%                   │
+│   ◈ NGINX — Figuring Out the Gateway                              │
 │                                                                     │
-│   [██████████████████████████████████░░░░░░]  85%                   │
-│   ◈ BASH / POWERSHELL — Command Line Warfare                      │
+│   [████████████████████████░░░░░░░░░░░░░░░░]  58%                   │
+│   ◈ BASH / POWERSHELL — Command Line Journey                      │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -160,8 +160,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ⚡ "Every system has a vulnerability. I find them before      ║
-║      the others do." — The Cybernetic Engineer                  ║
+║   ⚡ "Every expert was once a beginner."                        ║
+║      — The Cybernetic Apprentice                                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
