@@ -61,21 +61,21 @@
 
 <div align="center">
 
-**👾 Pac-Man**
+**Pac-Man**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
 </picture>
 
-**🧱 Breakout**
+**Breakout**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph.svg">
   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph.svg">
 </picture>
 
-**🚀 Galaga**
+**Galaga**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/galaga-contribution-graph.svg">
