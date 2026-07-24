@@ -120,15 +120,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║             ⚡ "Small wins stack up.                            ║
-║         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 [![Visit Counter](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=00F0FF)](https://visitcount.itsvg.in)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF79C6,50:BD93F9,75:00F0FF,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=00F0FF&animation=fadeIn&fontAlignY=45)
