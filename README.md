@@ -145,11 +145,36 @@
 
 ---
 
-## **`⟐ CONTRIBUTION GRAPH — DIGITAL FOOTPRINT ⟐`**
+## **`⟐ CONTRIBUTION GRAPH — ARCADE MODE ⟐`**
 
 <div align="center">
 
-[![NOVASWAY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NOVASWAY&bg_color=0D1117&color=00F0FF&line=BD93F9&point=FF79C6&area=true&area_color=BD93F9&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> Tech is fun. Here's the proof.
+
+**👾 Pac-Man** — Chomping through contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
+</picture>
+
+**🧱 Breakout** — Smashing through the grid
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/breakout-contribution-graph.svg">
+</picture>
+
+**🚀 Galaga** — Blasting through the stars
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/galaga-contribution-graph.svg">
+</picture>
+
+<br>
+
+*Auto-updates daily via GitHub Actions — different games, same grid, endless fun.*
 
 </div>
 
@@ -167,7 +192,5 @@
 ```
 
 [![Visit Counter](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=00F0FF)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
