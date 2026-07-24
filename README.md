@@ -9,9 +9,9 @@
  ╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
 ```
 
-**`> CYBERSECURITY STUDENT // SYSTEMS ENTHUSIAST // LIFELONG LEARNER`**
+**`> CYBERSECURITY STUDENT // SYSTEMS EXPLORER // BUILDING BLOCKS`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+to+Secure+the+Grid.;Exploring+Systems.+One+Hack+at+a+Time.;Code+is+my+Apprentice+Weapon.;%F0%9F%94%84+Still+Loading...)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Code+is+my+Learning+Tool.;%F0%9F%94%84+Level+Up+in+Progress.)</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/NOVASWAY?label=Followers&style=for-the-badge&color=00F0FF)](https://github.com/NOVASWAY?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=Profile%20Views&color=00F0FF&style=for-the-badge)](https://github.com/NOVASWAY)
@@ -29,20 +29,20 @@
 │                    ◈  SYSTEMS & INFRASTRUCTURE  ◈                  │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
-│   [████████████████████████████░░░░░░░░░░░░]  65%                   │
-│   ◈ LINUX — Still Navigating the Matrix                           │
+│   [████████████████████████░░░░░░░░░░░░░░░░]  55%                   │
+│   ◈ LINUX — Navigating the Matrix (In Progress)                  │
 │                                                                     │
-│   [██████████████████░░░░░░░░░░░░░░░░░░░░░░]  45%                   │
-│   ◈ DOCKER — Learning to Containerize                             │
+│   [█████████████████░░░░░░░░░░░░░░░░░░░░░░░]  40%                   │
+│   ◈ DOCKER — Containerizing Basics (Learning)                    │
 │                                                                     │
-│   [██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░]  35%                   │
-│   ◈ KUBERNETES — Exploring the Swarm                              │
+│   [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  30%                   │
+│   ◈ KUBERNETES — Exploring Orchestration (Starting)               │
 │                                                                     │
 │   [████████████████░░░░░░░░░░░░░░░░░░░░░░░░]  42%                   │
-│   ◈ NGINX — Figuring Out the Gateway                              │
+│   ◈ NGINX — Gateway Basics (Building)                            │
 │                                                                     │
-│   [████████████████████████░░░░░░░░░░░░░░░░]  58%                   │
-│   ◈ BASH / POWERSHELL — Command Line Journey                      │
+│   [███████████████████░░░░░░░░░░░░░░░░░░░░░]  48%                   │
+│   ◈ BASH / POWERSHELL — CLI Foundations (Growing)                 │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -160,8 +160,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ⚡ "Every expert was once a beginner."                        ║
-║      — The Cybernetic Apprentice                                 ║
+║   ⚡ "Small wins stack up. One commit at a time,               ║
+║      one system at a time — that's how grids get built."        ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
