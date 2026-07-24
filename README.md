@@ -132,8 +132,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ⚡ "Small wins stack up. One commit at a time,               ║
-║      one system at a time — that's how grids get built."        ║
+║             ⚡ "Small wins stack up.                            ║
+║         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
