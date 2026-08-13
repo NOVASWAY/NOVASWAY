@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00F0FF,50:BD93F9,75:FF79C6,100:0D1117&height=220&section=header&text=NOVASWAY&fontSize=72&fontColor=F8FAFC&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20//%20SYSTEMS%20EXPLORER&descSize=24&descColor=00F0FF&fontAlignY=35&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=NOVASWAY&fontSize=72&fontColor=F8FAFC&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20//%20SYSTEMS%20EXPLORER&descSize=24&descColor=A78BFA&fontAlignY=35&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Code+is+my+Learning+Tool.;%F0%9F%94%84+Level+Up+in+Progress.)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Code+is+my+Learning+Tool.;%F0%9F%94%84+Level+Up+in+Progress.)</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/NOVASWAY?label=Followers&style=for-the-badge&color=00F0FF)](https://github.com/NOVASWAY?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=Profile%20Views&color=00F0FF&style=for-the-badge)](https://github.com/NOVASWAY)
-[![GitHub Stars](https://img.shields.io/github/stars/NOVASWAY?label=Stars&style=for-the-badge&color=BD93F9)](https://github.com/NOVASWAY?tab=stars)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/NOVASWAY?label=Pull%20Requests&style=for-the-badge&color=FF79C6)](https://github.com/NOVASWAY/pulls)
+[![GitHub followers](https://img.shields.io/github/followers/NOVASWAY?label=Followers&style=for-the-badge&color=8B5CF6)](https://github.com/NOVASWAY?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=Profile%20Views&color=A78BFA&style=for-the-badge)](https://github.com/NOVASWAY)
+[![GitHub Stars](https://img.shields.io/github/stars/NOVASWAY?label=Stars&style=for-the-badge&color=7C3AED)](https://github.com/NOVASWAY?tab=stars)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/NOVASWAY?label=Pull%20Requests&style=for-the-badge&color=6D28D9)](https://github.com/NOVASWAY/pulls)
 
 ---
 
@@ -92,8 +92,8 @@
 
 <div align="center">
 
-[![Visit Counter](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=00F0FF)](https://visitcount.itsvg.in)
+[![Visit Counter](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=8B5CF6)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF79C6,50:BD93F9,75:00F0FF,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=00F0FF&animation=fadeIn&fontAlignY=45)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:A78BFA,50:8B5CF6,75:7C3AED,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=A78BFA&animation=fadeIn&fontAlignY=45)
 
 </div>
