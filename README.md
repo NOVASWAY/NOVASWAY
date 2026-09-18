@@ -18,28 +18,6 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 
 ---
 
-## `⟐ PROFICIENCY — TRYHACKME ⟐`
-
-<div align="center">
-
-[![TryHackMe — Clova](https://tryhackme-badges.s3.amazonaws.com/Clova.png)](https://tryhackme.com/p/Clova)
-
-![Rank](https://img.shields.io/badge/Rank-Top_1%25-8B5CF6?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-66_Legend-7C3AED?style=for-the-badge)
-![Rooms](https://img.shields.io/badge/Rooms-60_completed-A78BFA?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-60_days-6D28D9?style=for-the-badge)
-
-</div>
-
-**TryHackMe — [Clova](https://tryhackme.com/p/Clova):**
-
-- **Foundations:** Linux (SSH, commands, filesystem), networking (OSI, DNS, HTTP, packets/frames, LAN), web fundamentals, IAM, crypto basics
-- **Offensive basics:** recon (Nmap, whois/dig, traceroute), vuln assessment, Metasploit intro, SQLi via SQLMap, red-team fundamentals + OPSEC
-- **Defensive / SOC:** kill chains, Pyramid of Pain, traffic analysis, logging/monitoring/SIEM basics, alert triage, web-shell detection
-- **Standout:** LLM attacks — Model Compromise badge (epic 0.3%)
-
----
-
 ## `⟐ TECH STACK ⟐`
 
 <div align="center">
@@ -60,6 +38,7 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 ![Nmap](https://img.shields.io/badge/Nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679B4?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3486E2?style=for-the-badge&logo=metasploit&logoColor=white)
 
 **Detection & Monitoring — building**
 
@@ -74,6 +53,8 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+*Validated on [TryHackMe](https://tryhackme.com/p/Clova) (Top 1%, Lv.66 Legend): Linux, networking, recon, vuln assessment, traffic analysis, SOC basics, web-shell detection, LLM attacks.*
 
 *Exploring next: WireGuard, cloud hardening, alert tuning in Splunk.*
 
