@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=NOVASWAY&fontSize=72&fontColor=F8FAFC&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20//%20SYSTEMS%20EXPLORER&descSize=24&descColor=A78BFA&fontAlignY=35&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=Njau%20Wangari&fontSize=60&fontColor=F8FAFC&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20//%20SYSTEMS%20EXPLORER&descSize=24&descColor=A78BFA&fontAlignY=35&descAlignY=60)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Code+is+my+Learning+Tool.)](https://git.io/typing-svg)
 
