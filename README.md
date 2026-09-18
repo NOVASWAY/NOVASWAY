@@ -10,11 +10,11 @@
 
 ## About
 
-Cybersecurity student learning by building and breaking small systems. Focused on Linux, networking fundamentals, and practical security tooling — documenting the journey one repo at a time.
+Cybersecurity student learning by building and breaking small systems. Focused on Linux + Windows fundamentals, networking, practical security tooling, and self-hosted labs — documenting the journey one repo at a time.
 
-- Learning: systems, networks, and security basics
-- Building: small Python + Bash tools and labs
-- Goal: solid fundamentals, not buzzwords
+- Learning: systems (Linux / Windows), networks, and security basics
+- Building: small Python + Bash tools, LAMP labs on Linode + Nginx
+- Exploring: network monitoring & detection (Zeek, Snort, Splunk)
 
 ---
 
@@ -27,6 +27,8 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -37,7 +39,21 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679B4?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-*Exploring next: PowerShell, Nginx, WireGuard, basic cloud deployments.*
+**Detection & Monitoring — building**
+
+![Zeek](https://img.shields.io/badge/Zeek-222222?style=for-the-badge&logo=zeek&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
+
+**Infrastructure & Self-hosting — LAMP on Linode**
+
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+*Exploring next: WireGuard, cloud hardening, alert tuning in Splunk.*
 
 </div>
 
