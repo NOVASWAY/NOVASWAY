@@ -18,6 +18,28 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 
 ---
 
+## `⟐ PROFICIENCY — TRYHACKME ⟐`
+
+<div align="center">
+
+[![TryHackMe — Clova](https://tryhackme-badges.s3.amazonaws.com/Clova.png)](https://tryhackme.com/p/Clova)
+
+![Rank](https://img.shields.io/badge/Rank-Top_1%25-8B5CF6?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-66_Legend-7C3AED?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms-60_completed-A78BFA?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-60_days-6D28D9?style=for-the-badge)
+
+</div>
+
+**TryHackMe — [Clova](https://tryhackme.com/p/Clova):**
+
+- **Foundations:** Linux (SSH, commands, filesystem), networking (OSI, DNS, HTTP, packets/frames, LAN), web fundamentals, IAM, crypto basics
+- **Offensive basics:** recon (Nmap, whois/dig, traceroute), vuln assessment, Metasploit intro, SQLi via SQLMap, red-team fundamentals + OPSEC
+- **Defensive / SOC:** kill chains, Pyramid of Pain, traffic analysis, logging/monitoring/SIEM basics, alert triage, web-shell detection
+- **Standout:** LLM attacks — Model Compromise badge (epic 0.3%)
+
+---
+
 ## `⟐ TECH STACK ⟐`
 
 <div align="center">
