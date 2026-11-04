@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=Njau%20Wangari&fontSize=60&fontColor=F8FAFC&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20//%20SYSTEMS%20EXPLORER&descSize=24&descColor=A78BFA&fontAlignY=35&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=Njau%20Wangari&fontSize=60&fontColor=F8FAFC)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Code+is+my+Learning+Tool.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About
 
-Cybersecurity student learning by building and breaking small systems. Focused on Linux + Windows fundamentals, networking, practical security tooling, and self-hosted labs — documenting the journey one repo at a time.
+Cybersecurity student learning by building and breaking small systems. Focused on Linux + Windows fundamentals, networking, practical security tooling, and self-hosted labs — documenting the journey.
 
 - Learning: systems (Linux / Windows), networks, and security basics
 - Building: small Python + Bash tools, LAMP labs on Linode + Nginx
@@ -45,6 +45,13 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 ![Zeek](https://img.shields.io/badge/Zeek-222222?style=for-the-badge&logo=zeek&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
+
+**AI tools — exploring**
+
+[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Explore-7C3AED?style=for-the-badge)](https://github.com/NousResearch/hermes-agent)
+[![Ollama](https://img.shields.io/badge/Ollama-Explore-111111?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Promptfoo](https://img.shields.io/badge/Promptfoo-Explore-4B32C3?style=for-the-badge)](https://www.promptfoo.dev/)
 
 **Infrastructure & Self-hosting — LAMP on Linode**
 
@@ -82,6 +89,6 @@ Cybersecurity student learning by building and breaking small systems. Focused o
 
 [![Visits](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=8B5CF6)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:A78BFA,50:8B5CF6,75:7C3AED,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=A78BFA&animation=fadeIn&fontAlignY=45)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:A78BFA,50:8B5CF6,75:7C3AED,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=A78BFA)
 
 </div>
