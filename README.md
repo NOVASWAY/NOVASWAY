@@ -41,7 +41,7 @@ Cybersecurity student learning by building and breaking small systems. I focus o
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Security · Currently practicing
+### Security 
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
@@ -55,14 +55,14 @@ Cybersecurity student learning by building and breaking small systems. I focus o
 ![Snort](https://img.shields.io/badge/Snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
 
-### AI tools · Exploring
+### AI tools 
 
 [![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Explore-7C3AED?style=for-the-badge)](https://github.com/NousResearch/hermes-agent)
 [![Ollama](https://img.shields.io/badge/Ollama-Explore-111111?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Promptfoo](https://img.shields.io/badge/Promptfoo-Explore-4B32C3?style=for-the-badge)](https://www.promptfoo.dev/)
 
-### Infrastructure & self-hosting · LAMP on Linode
+### Infrastructure & self-hosting 
 
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
