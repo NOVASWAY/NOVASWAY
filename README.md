@@ -96,7 +96,7 @@ Cybersecurity student learning by building and breaking small systems. I focus o
 
 <div align="center">
 
-[![Visits](https://visitcount.itsvg.in/api?id=NOVASWAY&icon=3&color=8B5CF6)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/NOVASWAY)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:A78BFA,50:8B5CF6,75:7C3AED,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=A78BFA)
 
