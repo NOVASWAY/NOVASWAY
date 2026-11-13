@@ -1,103 +1,115 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:7C3AED,50:8B5CF6,75:A78BFA,100:0D1117&height=220&section=header&text=Njau%20Wangari&fontSize=60&fontColor=F8FAFC)
-
-### Cybersecurity student · Systems builder · Lifelong learner
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Learning+Systems.+One+Step+at+a+Time.;Small+Hacks.+Big+Growth.;Building%2C+breaking%2C+and+learning.)](https://git.io/typing-svg)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Clova)
-![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20Systems-7C3AED?style=for-the-badge)
-
-</div>
-
----
-
-## About me
-
-Cybersecurity student learning by building and breaking small systems. I focus on Linux and Windows fundamentals, networking, practical security tooling, and self-hosted labs—and document the journey as I go.
-
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>🧭 LEARNING</strong><br>Linux · Windows · Networking</td>
-    <td align="center" width="33%"><strong>🛠️ BUILDING</strong><br>Python · Bash · Self-hosted labs</td>
-    <td align="center" width="33%"><strong>🔎 EXPLORING</strong><br>Detection · AI · Cloud security</td>
-  </tr>
-</table>
-
----
-
-## `⟐ TECH STACK ⟐`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Njau Wangari — cybersecurity student and systems builder. I take systems apart to understand them, then build them back stronger.">
+</picture>
 
 <div align="center">
 
-### Core · I use regularly
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Security 
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1F223F?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679B4?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3486E2?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### Detection & monitoring · Building
-
-![Zeek](https://img.shields.io/badge/Zeek-222222?style=for-the-badge&logo=zeek&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-E51A1A?style=for-the-badge&logo=snort&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-65A637?style=for-the-badge&logo=splunk&logoColor=white)
-
-### AI tools 
-
-[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Explore-7C3AED?style=for-the-badge)](https://github.com/NousResearch/hermes-agent)
-[![Ollama](https://img.shields.io/badge/Ollama-Explore-111111?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![Promptfoo](https://img.shields.io/badge/Promptfoo-Explore-4B32C3?style=for-the-badge)](https://www.promptfoo.dev/)
-
-### Infrastructure & self-hosting 
-
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<a href="https://tryhackme.com/p/Clova"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25%20%C2%B7%20Lv.%2066%20Legend-0B0714?style=flat-square&labelColor=7C3AED&logo=tryhackme&logoColor=white" alt="TryHackMe: Top 1%, level 66 Legend"></a>&nbsp; <img src="https://img.shields.io/badge/Focus-Blue%20team%20%2F%20systems-0B0714?style=flat-square&labelColor=3B1D6E" alt="Focus: blue team and systems">&nbsp; <a href="mailto:njauwangari6@gmail.com?subject=Security%20%2F%20DevOps%20role"><img src="https://img.shields.io/badge/Open%20to-Security%20%26%20DevOps-0B0714?style=flat-square&labelColor=2A1650" alt="Open to security and DevOps roles"></a>
 
 </div>
 
-> **Hands-on learning:** [TryHackMe](https://tryhackme.com/p/Clova) — Top 1%, Lv.66 Legend. Practicing Linux, networking, recon, vulnerability assessment, traffic analysis, SOC fundamentals, web-shell detection, and LLM attacks.
->
-> **Next up:** WireGuard, cloud hardening, and alert tuning in Splunk.
+## 01 · About
 
----
+Cybersecurity student with a builder's habit: I take systems apart to learn how they fail, then build them back stronger. My work sits where blue-team thinking meets product engineering — Linux and Windows internals, network traffic, detection, and full-stack products built for real problems.
 
-## `⟐ CONTRIBUTION GRAPH — ARCADE MODE ⟐`
+> **Currently** — blue-team labs, self-hosted Linux services, and shipping FieldPulse.
+> **Next up** — WireGuard tunnels, cloud hardening, and tuning Splunk alerts.
+
+## 02 · Experience & education
+
+**DevOps Apprentice** · Tesuji Systems <sub>Jan – Sep 2025</sub><br>
+Built and maintained Linux development environments, worked in collaborative Git workflows, containerized applications with Docker, and learned CI/CD and deployment fundamentals in a mentorship-led apprenticeship.
+
+**Cybersecurity Bootcamp** · Moringa School <sub>2025</sub><br>
+Defensive security, Linux and networking fundamentals, system hardening, threat awareness, and lab-based exercises.
+
+**Diploma in Information Technology** · PAC University <sub>2025</sub><br>
+Networking, operating systems, and infrastructure fundamentals.
+
+## 03 · Selected work
+
+<a href="https://github.com/NOVASWAY/weatherio-forecast">
+  <img src="assets/work-fieldpulse.svg" width="100%" alt="FieldPulse — a weather dashboard for smallholder farmers showing 27°C, a 24-hour watch alert, and a seven-day rainfall chart.">
+</a>
+
+### [FieldPulse — weather intelligence for smallholder farmers](https://github.com/NOVASWAY/weatherio-forecast)
+
+Live forecasts, AI field guidance, threshold alerts, and canopy-health analysis for smallholder farms in East Africa. Llama 3.3 (via Groq) writes the next-24-hour recommendations, while a deterministic rule engine keeps the product useful when the API is unavailable.
+
+`Next.js` · `TypeScript` · `Hono` · `Neon Postgres` · `TanStack Query` · `Groq` · `Turborepo`
+
+**[Explore the repository →](https://github.com/NOVASWAY/weatherio-forecast)**
+
+### [Vault — church security & lost-and-found platform](https://github.com/NOVASWAY/v0-lost-and-found-app)
+
+A role-aware operations platform: photo-backed lost-and-found claims, volunteer review queues, audit logging, security playbooks, service records, and a gamified contribution system. Built with Next.js App Router, Prisma, Neon Postgres, Radix UI, Zod, and a Vitest suite.
+
+`TypeScript` · `Next.js` · `Prisma` · `Postgres` · `Tailwind` · `PWA`
+
+### [WebEnum — reconnaissance CLI for legacy risk](https://github.com/NOVASWAY/webenum)
+
+A Python enumerator that fingerprints web services, flags end-of-life software and deprecated protocols, headers, and TLS versions against NSA/CISA and OWASP guidance, then exports structured JSON for triage. Built as a team project.
+
+`Python` · `Requests` · `BeautifulSoup` · `dnspython` · `ThreadPoolExecutor`
+
+[More repositories →](https://github.com/NOVASWAY?tab=repositories)
+
+## 04 · Security practice
+
+I learn by standing up targets, capturing traffic, and writing down what actually happened. TryHackMe is my main range — currently **Top 1% globally, Level 66 Legend**.
+
+- **Blue team** — traffic analysis, SOC fundamentals, alert triage
+- **Offensive basics** — recon, enumeration, vulnerability assessment
+- **Detection** — Zeek, Snort, Splunk, web-shell detection
+- **AI security** — prompt injection, LLM attack labs
+- **Infrastructure** — self-hosted Linux services, Nginx/Apache, MySQL, Docker labs
+
+## 05 · Toolkit
+
+**Languages** · `Python` `Bash` `PowerShell` `TypeScript` `C` `SQL`
+
+**Security** · `Nmap` `Burp Suite` `Wireshark` `Zeek` `Snort` `Splunk` `Metasploit` `Kali Linux`
+
+**Systems** · `Linux` `Windows` `Docker` `Nginx` `Apache` `MySQL` `PHP` `Git`
+
+**Build** · `Next.js` `Hono` `Prisma` `Neon Postgres` `Groq` `Turborepo`
+
+**AI exploration** · `Ollama` `Hugging Face` `Promptfoo`
+
+<sub>Comfortable with the fundamentals, honest about the learning curve. Currently going deeper on WireGuard, cloud hardening, and Splunk alert tuning.</sub>
+
+## 06 · Off the clock
+
+A small arcade lives in my contribution graph. Consistency should be playable.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/NOVASWAY/NOVASWAY/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-*Auto-updates daily via GitHub Actions.*
+<sub>Auto-generated daily by GitHub Actions.</sub>
 
 </div>
 
----
+## 07 · Contact
+
+I'm looking for a security/DevOps internship or junior role where lab work turns into production impact. If you're hiring for curiosity, care, and follow-through — or just want to trade notes on detection, self-hosting, or shipping — my inbox is open.
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NOVASWAY&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/NOVASWAY)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:A78BFA,50:8B5CF6,75:7C3AED,100:0D1117&height=120&section=footer&text=KEEP%20HACKING&fontSize=28&fontColor=A78BFA)
+<a href="mailto:njauwangari6@gmail.com"><img src="https://img.shields.io/badge/Email-njauwangari6%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Njau Wangari"></a>&nbsp; <a href="https://github.com/NOVASWAY"><img src="https://img.shields.io/badge/GitHub-NOVASWAY-0B0714?style=for-the-badge&logo=github&logoColor=white" alt="Njau Wangari on GitHub"></a>&nbsp; <a href="https://tryhackme.com/p/Clova"><img src="https://img.shields.io/badge/TryHackMe-Clova-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Njau Wangari on TryHackMe"></a>
 
 </div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Keep hacking — Njau Wangari, 2026. Still learning. Still shipping.">
+</picture>

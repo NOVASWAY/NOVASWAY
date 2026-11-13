@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-labelledby="t d">
+  <title id="t">Keep hacking — Njau Wangari, 2026</title>
+  <desc id="d">Footer banner reading Keep Hacking, with a blinking cursor and the signature of Njau Wangari.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#07050F"/>
+      <stop offset=".55" stop-color="#0D081A"/>
+      <stop offset="1" stop-color="#120A24"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2=".2">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset=".55" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#A78BFA" stop-opacity=".55"/>
+      <stop offset=".8" stop-color="#A78BFA" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweepGrad" x1="846" y1="52" x2="952" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset=".65" stop-color="#A78BFA" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity=".42"/>
+    </linearGradient>
+    <linearGradient id="monoStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C4B5FD" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity=".45"/>
+    </linearGradient>
+    <radialGradient id="radarGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity=".13"/>
+      <stop offset=".65" stop-color="#A78BFA" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A78BFA" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+  <style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes sweepSpin{to{transform:rotate(360deg)}}
+.sweep-g{transform-box:view-box;transform-origin:846px 176px;animation:sweepSpin 9s linear infinite}
+@keyframes ping{0%,100%{opacity:.25;transform:scale(.55)}45%{opacity:1;transform:scale(1)}}
+.blip{transform-box:fill-box;transform-origin:center;animation:ping 4s ease-in-out infinite}
+.b2{animation-delay:-1.4s}.b3{animation-delay:-2.6s}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.cursor{animation:blink 1.15s steps(1,end) infinite}
+@keyframes drift{from{transform:translate3d(0,0,0) scale(1)}to{transform:translate3d(-26px,16px,0) scale(1.08)}}
+.glow-a{transform-box:fill-box;transform-origin:center;animation:drift 18s ease-in-out infinite alternate}
+@keyframes trace{to{stroke-dashoffset:-240}}
+.trace{stroke-dasharray:3 9;animation:trace 14s linear infinite}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+.breathe{animation:breathe 4.5s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.sweep-g,.blip,.cursor,.glow-a,.trace,.breathe{animation:none}}
+</style>
+  <rect width="1000" height="150" fill="url(#bg)"/>
+  <rect width="1000" height="150" fill="url(#dots)"/>
+  <ellipse cx="500" cy="160" rx="460" ry="150" fill="url(#glow1)" opacity=".55"/>
+  <rect x="0" y="0" width="1000" height="1" fill="url(#hair)"/>
+  <text class="mono" x="56" y="78" font-size="8.5" letter-spacing="2.4" fill="#8C80A6">NJAU WANGARI / 2026</text>
+  <text class="mono" x="944" y="78" text-anchor="end" font-size="8.5" letter-spacing="2.4" fill="#8C80A6">BUILD · BREAK · LEARN</text>
+  <text class="mono" x="500" y="86" text-anchor="middle" font-size="26" letter-spacing="7" fill="url(#nameGrad)">KEEP HACKING</text>
+  <rect class="cursor" x="654" y="68" width="9" height="20" rx="1.5" fill="#A78BFA"/>
+  <text class="sans" x="500" y="116" text-anchor="middle" font-size="11" fill="#A79BC2">Still learning. Still shipping.</text>
+  <rect x="0" y="149" width="1000" height="1" fill="url(#hair)"/>
+</svg>
