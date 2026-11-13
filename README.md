@@ -14,7 +14,7 @@
 
 Cybersecurity student with a builder's habit: I take systems apart to learn how they fail, then build them back stronger. My work sits where blue-team thinking meets product engineering — Linux and Windows internals, network traffic, detection, and full-stack products built for real problems.
 
-> **Currently** — blue-team labs, self-hosted Linux services, and shipping FieldPulse.
+> **Currently** — blue-team labs, self-hosted Linux services, and hardening detection pipelines.
 > **Next up** — WireGuard tunnels, cloud hardening, and tuning Splunk alerts.
 
 ## 02 · Experience & education
@@ -29,18 +29,6 @@ Defensive security, Linux and networking fundamentals, system hardening, threat 
 Networking, operating systems, and infrastructure fundamentals.
 
 ## 03 · Selected work
-
-<a href="https://github.com/NOVASWAY/weatherio-forecast">
-  <img src="assets/work-fieldpulse.svg" width="100%" alt="FieldPulse — a weather dashboard for smallholder farmers showing 27°C, a 24-hour watch alert, and a seven-day rainfall chart.">
-</a>
-
-### [FieldPulse — weather intelligence for smallholder farmers](https://github.com/NOVASWAY/weatherio-forecast)
-
-Live forecasts, AI field guidance, threshold alerts, and canopy-health analysis for smallholder farms in East Africa. Llama 3.3 (via Groq) writes the next-24-hour recommendations, while a deterministic rule engine keeps the product useful when the API is unavailable.
-
-`Next.js` · `TypeScript` · `Hono` · `Neon Postgres` · `TanStack Query` · `Groq` · `Turborepo`
-
-**[Explore the repository →](https://github.com/NOVASWAY/weatherio-forecast)**
 
 ### [Vault — church security & lost-and-found platform](https://github.com/NOVASWAY/v0-lost-and-found-app)
 
@@ -66,7 +54,27 @@ I learn by standing up targets, capturing traffic, and writing down what actuall
 - **AI security** — prompt injection, LLM attack labs
 - **Infrastructure** — self-hosted Linux services, Nginx/Apache, MySQL, Docker labs
 
-## 05 · Toolkit
+## 05 · TryHackMe profile
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| **Rank** | #21,235 — **Top 1%** |
+| **Level** | 13 (66-day streak) |
+| **Rooms completed** | 231 |
+| **Total points** | 26,137 |
+| **Badges earned** | 27 |
+| **League** | Platinum |
+| **Capability** | Blue team · 55/100 |
+| **Profile** | Premium · Blue team banner |
+| **Since** | Nov 2024 |
+
+</div>
+
+[View full profile →](https://tryhackme.com/p/Clova)
+
+## 06 · Toolkit
 
 **Languages** · `Python` `Bash` `PowerShell` `TypeScript` `C` `SQL`
 
@@ -80,7 +88,7 @@ I learn by standing up targets, capturing traffic, and writing down what actuall
 
 <sub>Comfortable with the fundamentals, honest about the learning curve. Currently going deeper on WireGuard, cloud hardening, and Splunk alert tuning.</sub>
 
-## 06 · Off the clock
+## 07 · Off the clock
 
 A small arcade lives in my contribution graph. Consistency should be playable.
 
@@ -96,7 +104,7 @@ A small arcade lives in my contribution graph. Consistency should be playable.
 
 </div>
 
-## 07 · Contact
+## 08 · Contact
 
 I'm looking for a security/DevOps internship or junior role where lab work turns into production impact. If you're hiring for curiosity, care, and follow-through — or just want to trade notes on detection, self-hosting, or shipping — my inbox is open.
 
