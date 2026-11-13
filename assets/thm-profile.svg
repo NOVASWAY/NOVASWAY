@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="t d">
+  <title id="t">TryHackMe — Top 1% · Blue Team · 231 rooms · Platinum</title>
+  <desc id="d">Visual summary of TryHackMe profile: rank, streak, rooms, badges, and top skill badges recruiters value.</desc>
+  <defs>
+    <linearGradient id="thmBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D081A"/>
+      <stop offset="1" stop-color="#150D2B"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1030"/>
+      <stop offset="1" stop-color="#120820"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#7C3AED" stroke-opacity="0.04" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <style>
+    .mono{{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}}
+    .sans{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}}
+    @keyframes pulse{{0%,100%{{opacity:0.6}}50%{{opacity:1}}}}
+    .pulse{{animation:pulse 2.5s ease-in-out infinite}}
+    @media (prefers-reduced-motion:reduce){{.pulse{{animation:none}}}}
+  </style>
+  <rect width="1000" height="280" fill="url(#thmBg)"/>
+  <rect width="1000" height="280" fill="url(#grid)"/>
+  <ellipse cx="150" cy="40" rx="280" ry="160" fill="#7C3AED" fill-opacity="0.12"/>
+  <ellipse cx="920" cy="240" rx="260" ry="140" fill="#0D9488" fill-opacity="0.10"/>
+
+  <!-- Top stat cards -->
+  <g font-size="11" fill="#E8E0F8">
+    <rect x="40" y="32" width="220" height="72" rx="14" fill="url(#cardGrad)" stroke="#7C3AED" stroke-opacity="0.25"/>
+    <text class="mono" x="56" y="54" font-size="9" letter-spacing="1.8" fill="#A78BFA">GLOBAL RANK</text>
+    <text class="sans" x="56" y="82" font-size="26" font-weight="700" fill="#FFFFFF">#21,235</text>
+    <text class="mono" x="56" y="96" font-size="10" fill="#5EEAD4">TOP 1% • PLATINUM</text>
+
+    <rect x="280" y="32" width="220" height="72" rx="14" fill="url(#cardGrad)" stroke="#0D9488" stroke-opacity="0.25"/>
+    <text class="mono" x="296" y="54" font-size="9" letter-spacing="1.8" fill="#5EEAD4">CURRENT STREAK</text>
+    <text class="sans pulse" x="296" y="82" font-size="26" font-weight="700" fill="#5EEAD4">66 DAYS</text>
+    <text class="mono" x="296" y="96" font-size="10" fill="#A78BFA">LONGEST: 66</text>
+
+    <rect x="520" y="32" width="220" height="72" rx="14" fill="url(#cardGrad)" stroke="#A78BFA" stroke-opacity="0.25"/>
+    <text class="mono" x="536" y="54" font-size="9" letter-spacing="1.8" fill="#A78BFA">ROOMS COMPLETED</text>
+    <text class="sans" x="536" y="82" font-size="26" font-weight="700" fill="#A78BFA">231</text>
+    <text class="mono" x="536" y="96" font-size="10" fill="#7C3AED">26,137 POINTS</text>
+
+    <rect x="760" y="32" width="200" height="72" rx="14" fill="url(#cardGrad)" stroke="#FBBF24" stroke-opacity="0.25"/>
+    <text class="mono" x="776" y="54" font-size="9" letter-spacing="1.8" fill="#FBBF24">LEVEL</text>
+    <text class="sans" x="776" y="82" font-size="26" font-weight="700" fill="#FBBF24">13</text>
+    <text class="mono" x="776" y="96" font-size="10" fill="#FBBF24">27 BADGES</text>
+  </g>
+
+  <!-- Skill badges row - only recruiter-valued ones -->
+  <g font-size="11">
+    <text class="mono" x="40" y="142" letter-spacing="2.2" fill="#7C3AED">RECRUITER-VALUED BADGES</text>
+    <line x1="40" y1="148" x2="280" y2="148" stroke="#7C3AED" stroke-opacity="0.3"/>
+
+    <!-- Blue Team cluster -->
+    <g transform="translate(40, 160)">
+      <text class="mono" x="0" y="0" font-size="9" letter-spacing="1.5" fill="#5EEAD4">BLUE TEAM / SOC</text>
+      <rect x="0" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#5EEAD4" stroke-opacity="0.35"/>
+      <circle cx="22" cy="35" r="10" fill="#0D9488" fill-opacity="0.2"/>
+      <text x="22" y="38" text-anchor="middle" font-size="12" fill="#5EEAD4">[SHIELD]</text>
+      <text class="sans" x="44" y="32" font-size="11" font-weight="600" fill="#E8E0F8">SOC Level 1</text>
+      <text class="mono" x="44" y="45" font-size="8" fill="#9C90B8">Splunk • Zeek • Alert Triage</text>
+      <rect x="160" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#5EEAD4" stroke-opacity="0.35"/>
+      <circle cx="182" cy="35" r="10" fill="#0D9488" fill-opacity="0.2"/>
+      <text x="182" y="38" text-anchor="middle" font-size="12" fill="#5EEAD4">[SEARCH]</text>
+      <text class="sans" x="204" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Threat Hunting</text>
+      <text class="mono" x="204" y="45" font-size="8" fill="#9C90B8">MITRE ATT&amp;CK • YARA • Sigma</text>
+      <rect x="320" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#5EEAD4" stroke-opacity="0.35"/>
+      <circle cx="342" cy="35" r="10" fill="#0D9488" fill-opacity="0.2"/>
+      <text x="342" y="38" text-anchor="middle" font-size="12" fill="#5EEAD4">[GRAPH]</text>
+      <text class="sans" x="364" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Wireshark</text>
+      <text class="mono" x="364" y="45" font-size="8" fill="#9C90B8">PCAP Analysis • Traffic Forensics</text>
+    </g>
+
+    <!-- Network/Infra cluster -->
+    <g transform="translate(40, 220)">
+      <text class="mono" x="0" y="0" font-size="9" letter-spacing="1.5" fill="#A78BFA">NETWORK / INFRA</text>
+      <rect x="0" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#A78BFA" stroke-opacity="0.35"/>
+      <circle cx="22" cy="35" r="10" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="22" y="38" text-anchor="middle" font-size="12" fill="#A78BFA">[LINUX]</text>
+      <text class="sans" x="44" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Linux Fundamentals</text>
+      <text class="mono" x="44" y="45" font-size="8" fill="#9C90B8">Priv Esc • Hardening • Services</text>
+      <rect x="160" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#A78BFA" stroke-opacity="0.35"/>
+      <circle cx="182" cy="35" r="10" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="182" y="38" text-anchor="middle" font-size="12" fill="#A78BFA">[WIN]</text>
+      <text class="sans" x="204" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Windows Fundamentals</text>
+      <text class="mono" x="204" y="45" font-size="8" fill="#9C90B8">AD • PowerShell • Event Logs</text>
+      <rect x="320" y="14" width="148" height="42" rx="8" fill="#0B0716" stroke="#A78BFA" stroke-opacity="0.35"/>
+      <circle cx="342" cy="35" r="10" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="342" y="38" text-anchor="middle" font-size="12" fill="#A78BFA">[NET]</text>
+      <text class="sans" x="364" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Network Security</text>
+      <text class="mono" x="364" y="45" font-size="8" fill="#9C90B8">Nmap • Burp • DNS • TLS</text>
+    </g>
+
+    <!-- Scripting/Automation cluster -->
+    <g transform="translate(520, 160)">
+      <text class="mono" x="0" y="0" font-size="9" letter-spacing="1.5" fill="#FBBF24">SCRIPTING / AUTOMATION</text>
+      <rect x="0" y="14" width="200" height="42" rx="8" fill="#0B0716" stroke="#FBBF24" stroke-opacity="0.35"/>
+      <circle cx="22" cy="35" r="10" fill="#B45309" fill-opacity="0.2"/>
+      <text x="22" y="38" text-anchor="middle" font-size="12" fill="#FBBF24">[PY]</text>
+      <text class="sans" x="44" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Python for Security</text>
+      <text class="mono" x="44" y="45" font-size="8" fill="#9C90B8">Requests • Crypto • Automation</text>
+      <rect x="220" y="14" width="180" height="42" rx="8" fill="#0B0716" stroke="#FBBF24" stroke-opacity="0.35"/>
+      <circle cx="242" cy="35" r="10" fill="#B45309" fill-opacity="0.2"/>
+      <text x="242" y="38" text-anchor="middle" font-size="12" fill="#FBBF24">[SH]</text>
+      <text class="sans" x="264" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Bash Scripting</text>
+      <text class="mono" x="264" y="45" font-size="8" fill="#9C90B8">Recon • Log Parsing • Tooling</text>
+    </g>
+
+    <!-- Web/App Sec cluster -->
+    <g transform="translate(520, 220)">
+      <text class="mono" x="0" y="0" font-size="9" letter-spacing="1.5" fill="#F87171">WEB / APP SEC</text>
+      <rect x="0" y="14" width="200" height="42" rx="8" fill="#0B0716" stroke="#F87171" stroke-opacity="0.35"/>
+      <circle cx="22" cy="35" r="10" fill="#EF4444" fill-opacity="0.2"/>
+      <text x="22" y="38" text-anchor="middle" font-size="12" fill="#F87171">[WEB]</text>
+      <text class="sans" x="44" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Web App Security</text>
+      <text class="mono" x="44" y="45" font-size="8" fill="#9C90B8">OWASP Top 10 • Burp • SQLi • XSS</text>
+      <rect x="220" y="14" width="180" height="42" rx="8" fill="#0B0716" stroke="#F87171" stroke-opacity="0.35"/>
+      <circle cx="242" cy="35" r="10" fill="#EF4444" fill-opacity="0.2"/>
+      <text x="242" y="38" text-anchor="middle" font-size="12" fill="#F87171">[CRYPTO]</text>
+      <text class="sans" x="264" y="32" font-size="11" font-weight="600" fill="#E8E0F8">Crypto Basics</text>
+      <text class="mono" x="264" y="45" font-size="8" fill="#9C90B8">Certs • Hashing • PKI</text>
+    </g>
+
+    <!-- Right side - profile link card -->
+    <g transform="translate(760, 160)">
+      <rect x="0" y="0" width="200" height="102" rx="14" fill="url(#cardGrad)" stroke="#7C3AED" stroke-opacity="0.3"/>
+      <text class="mono" x="100" y="28" text-anchor="middle" font-size="9" letter-spacing="1.6" fill="#A78BFA">TRYHACKME</text>
+      <text class="sans" x="100" y="52" text-anchor="middle" font-size="20" font-weight="700" fill="#FFFFFF">Clova</text>
+      <text class="mono" x="100" y="68" text-anchor="middle" font-size="9" fill="#5EEAD4">LEVEL 13 • PLATINUM</text>
+      <rect x="20" y="78" width="160" height="30" rx="6" fill="#7C3AED" fill-opacity="0.2" stroke="#7C3AED" stroke-opacity="0.4"/>
+      <text class="sans" x="100" y="96" text-anchor="middle" font-size="10" font-weight="600" fill="#A78BFA">VIEW PROFILE →</text>
+    </g>
+  </g>
+
+  <text class="mono" x="960" y="270" text-anchor="end" font-size="8" letter-spacing="1.5" fill="#3D3058">DATA: THM API • NOV 2024+</text>
+</svg>

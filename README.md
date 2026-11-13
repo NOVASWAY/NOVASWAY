@@ -56,21 +56,11 @@ I learn by standing up targets, capturing traffic, and writing down what actuall
 
 ## 05 · TryHackMe profile
 
-<div align="center">
-
-| Metric | Value |
-|---|---|
-| **Rank** | #21,235 — **Top 1%** |
-| **Level** | 13 (66-day streak) |
-| **Rooms completed** | 231 |
-| **Total points** | 26,137 |
-| **Badges earned** | 27 |
-| **League** | Platinum |
-| **Capability** | Blue team · 55/100 |
-| **Profile** | Premium · Blue team banner |
-| **Since** | Nov 2024 |
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/thm-profile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/thm-profile.svg">
+  <img src="assets/thm-profile.svg" width="100%" alt="TryHackMe profile: Top 1% globally, rank #21,235, Level 13, 66-day streak, 231 rooms, 26,137 points, 27 badges, Platinum league, Blue team capability 55/100, Premium profile with blue team banner. Key badges: SOC Level 1, Threat Hunting, Wireshark, Linux/Windows Fundamentals, Network Security, Python for Security, Bash Scripting, Web App Security, Crypto Basics.">
+</picture>
 
 [View full profile →](https://tryhackme.com/p/Clova)
 
