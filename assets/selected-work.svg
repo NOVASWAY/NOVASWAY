@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="t d">
+  <title id="t">Selected Work - Vault Security Platform and WebEnum Recon CLI</title>
+  <desc id="d">Two project showcase cards: Vault church security platform (Next.js, Prisma, Postgres) and WebEnum reconnaissance CLI (Python, NSA/CISA checks).</desc>
+  <defs>
+    <linearGradient id="workBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080510"/>
+      <stop offset="1" stop-color="#120A24"/>
+    </linearGradient>
+    <linearGradient id="vaultGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1030"/>
+      <stop offset="1" stop-color="#120820"/>
+    </linearGradient>
+    <linearGradient id="webGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A10"/>
+      <stop offset="1" stop-color="#082010"/>
+    </linearGradient>
+    <linearGradient id="vaultAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="webAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D9488"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0 L0 0 0 50" fill="none" stroke="#7C3AED" stroke-opacity="0.03" stroke-width="0.5"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  </style>
+  <rect width="1000" height="360" fill="url(#workBg)"/>
+  <rect width="1000" height="360" fill="url(#grid)"/>
+
+  <g transform="translate(40, 30)">
+    <rect x="0" y="0" width="440" height="300" rx="20" fill="url(#vaultGrad)" stroke="url(#vaultAccent)" stroke-opacity="0.3" stroke-width="1.5"/>
+    <rect x="0" y="0" width="440" height="56" rx="20" fill="#7C3AED" fill-opacity="0.12"/>
+    <g transform="translate(24, 18)">
+      <rect x="0" y="0" width="40" height="40" rx="10" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="20" y="27" text-anchor="middle" font-size="18" fill="#A78BFA">[VAULT]</text>
+    </g>
+    <text class="sans" x="80" y="32" font-size="20" font-weight="700" fill="#FFFFFF">Vault</text>
+    <text class="mono" x="80" y="50" font-size="9" letter-spacing="1.8" fill="#A78BFA">CHURCH SECURITY PLATFORM</text>
+
+    <rect x="24" y="72" width="392" height="180" rx="10" fill="#0A0718" stroke="#7C3AED" stroke-opacity="0.15"/>
+    <text class="mono" x="36" y="96" font-size="9" letter-spacing="1.6" fill="#9C90B8">DASHBOARD PREVIEW</text>
+    <g transform="translate(36, 110)">
+      <rect x="0" y="0" width="112" height="56" rx="8" fill="#7C3AED" fill-opacity="0.1" stroke="#7C3AED" stroke-opacity="0.2"/>
+      <text class="sans" x="56" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#A78BFA">47</text>
+      <text class="mono" x="56" y="44" text-anchor="middle" font-size="8" fill="#9C90B8">OPEN CLAIMS</text>
+      <rect x="120" y="0" width="112" height="56" rx="8" fill="#5EEAD4" fill-opacity="0.1" stroke="#5EEAD4" stroke-opacity="0.2"/>
+      <text class="sans" x="176" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#5EEAD4">12</text>
+      <text class="mono" x="176" y="44" text-anchor="middle" font-size="8" fill="#9C90B8">PLAYBOOKS</text>
+      <rect x="240" y="0" width="112" height="56" rx="8" fill="#FBBF24" fill-opacity="0.1" stroke="#FBBF24" stroke-opacity="0.2"/>
+      <text class="sans" x="296" y="28" text-anchor="middle" font-size="18" font-weight="700" fill="#FBBF24">3</text>
+      <text class="mono" x="296" y="44" text-anchor="middle" font-size="8" fill="#9C90B8">LOCATIONS</text>
+    </g>
+    <text class="mono" x="36" y="188" font-size="8" fill="#9C90B8">RECENT ACTIVITY</text>
+    <g font-size="8" fill="#E8E0F8" transform="translate(36, 198)">
+      <text x="0" y="0">. Item claimed - John D.</text>
+      <text x="0" y="18">. Playbook updated - Fire Drill</text>
+      <text x="0" y="36">. Volunteer approved - Maria S.</text>
+      <text x="0" y="54">. Location added - Sanctuary</text>
+    </g>
+
+    <line x1="24" y1="264" x2="416" y2="264" stroke="#7C3AED" stroke-opacity="0.15"/>
+    <text class="mono" x="24" y="282" font-size="9" letter-spacing="1.5" fill="#A78BFA">NEXT.JS . TYPESCRIPT . PRISMA . POSTGRES . TAILWIND . PWA</text>
+    <text class="mono" x="24" y="296" font-size="9" fill="#9C90B8">RADIX UI . ZOD . VITEST . AUDIT LOGGING</text>
+  </g>
+
+  <g transform="translate(520, 30)">
+    <rect x="0" y="0" width="440" height="300" rx="20" fill="url(#webGrad)" stroke="url(#webAccent)" stroke-opacity="0.3" stroke-width="1.5"/>
+    <rect x="0" y="0" width="440" height="56" rx="20" fill="#0D9488" fill-opacity="0.12"/>
+    <g transform="translate(24, 18)">
+      <rect x="0" y="0" width="40" height="40" rx="10" fill="#0D9488" fill-opacity="0.2"/>
+      <text x="20" y="27" text-anchor="middle" font-size="18" fill="#5EEAD4">[RECON]</text>
+    </g>
+    <text class="sans" x="80" y="32" font-size="20" font-weight="700" fill="#FFFFFF">WebEnum</text>
+    <text class="mono" x="80" y="50" font-size="9" letter-spacing="1.8" fill="#5EEAD4">RECONNAISSANCE CLI</text>
+
+    <rect x="24" y="72" width="392" height="180" rx="10" fill="#061008" stroke="#0D9488" stroke-opacity="0.2"/>
+    <text class="mono" x="36" y="96" font-size="9" letter-spacing="1.6" fill="#766A92">$ python3 webenum.py -t target.com -v -o report.json</text>
+    <text class="mono" x="36" y="118" font-size="8" fill="#5EEAD4">[+] Scanning target.com:443</text>
+    <text class="mono" x="36" y="136" font-size="8" fill="#A78BFA">[+] TLS 1.3 detected . Cipher: TLS_AES_256_GCM_SHA384</text>
+    <text class="mono" x="36" y="154" font-size="8" fill="#FBBF24">[!] Deprecated header: X-Frame-Options missing</text>
+    <text class="mono" x="36" y="172" font-size="8" fill="#F87171">[!!] EOL: PHP/7.4 (EOL 2022-11-28) - CRITICAL</text>
+    <text class="mono" x="36" y="190" font-size="8" fill="#5EEAD4">[+] DNS: A, AAAA, MX, TXT enumerated</text>
+    <text class="mono" x="36" y="208" font-size="8" fill="#5EEAD4">[+] Subdomains: 12 discovered</text>
+    <text class="mono" x="36" y="226" font-size="8" fill="#5EEAD4">[+] Report written to report.json</text>
+
+    <line x1="24" y1="264" x2="416" y2="264" stroke="#0D9488" stroke-opacity="0.15"/>
+    <text class="mono" x="24" y="282" font-size="9" letter-spacing="1.5" fill="#5EEAD4">PYTHON . REQUESTS . BS4 . DNSPYTHON . THREADPOOLEXECUTOR</text>
+    <text class="mono" x="24" y="296" font-size="9" fill="#766A92">NSA/CISA EOL DB . OWASP HEADERS . TLS CHECKS . JSON OUTPUT</text>
+  </g>
+
+  <text class="mono" x="960" y="350" text-anchor="end" font-size="8" letter-spacing="1.5" fill="#3D3058">SELECTED WORK . 2025-2026</text>
+</svg>

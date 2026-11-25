@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="t d">
+  <title id="t">Toolkit — Languages, Security, Systems, Build, AI</title>
+  <desc id="d">Visual toolkit matrix with proficiency rings: Languages (Python, Bash, PowerShell, TypeScript, C, SQL), Security (Nmap, Burp, Wireshark, Zeek, Snort, Splunk, Metasploit, Kali), Systems (Linux, Windows, Docker, Nginx, Apache, MySQL, PHP, Git), Build (Next.js, Hono, Prisma, Neon, Groq, Turborepo), AI (Ollama, Hugging Face, Promptfoo).</desc>
+  <defs>
+    <linearGradient id="tkBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080510"/>
+      <stop offset="1" stop-color="#120A24"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1030"/>
+      <stop offset="1" stop-color="#120820"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="none" stroke="#7C3AED" stroke-opacity="0.02" stroke-width="0.5"/>
+    </pattern>
+    <filter id="ringGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+  </style>
+  <rect width="1000" height="360" fill="url(#tkBg)"/>
+  <rect width="1000" height="360" fill="url(#grid)"/>
+
+  <!-- 5 columns -->
+  <g font-size="10">
+    <!-- Column 1: Languages -->
+    <g transform="translate(40, 30)">
+      <text class="mono" x="0" y="0" letter-spacing="2" fill="#7C3AED">LANGUAGES</text>
+      <line x1="0" y1="12" x2="160" y2="12" stroke="#7C3AED" stroke-opacity="0.3"/>
+      <g transform="translate(0, 24)">
+        <!-- Python -->
+        <g transform="translate(0, 0)">
+          <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="11" stroke-linecap="round" filter="url(#ringGlow)"/></svg>
+          <text x="20" y="26" text-anchor="middle" font-size="14" fill="#A78BFA">[PY]</text>
+        </g>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">Python</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">Scripts • Automation • Crypto</text>
+      </g>
+      <g transform="translate(0, 60)">
+        <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#A78BFA" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="22" stroke-linecap="round"/></svg>
+        <text x="20" y="26" text-anchor="middle" font-size="14" fill="#A78BFA">[SH]</text>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">Bash</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">Recon • Logs • Tooling</text>
+      </g>
+      <g transform="translate(0, 96)">
+        <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#FBBF24" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="34" stroke-linecap="round"/></svg>
+        <text x="20" y="26" text-anchor="middle" font-size="14" fill="#FBBF24">[PS]</text>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">PowerShell</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">AD • Event Logs • Automation</text>
+      </g>
+      <g transform="translate(0, 132)">
+        <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#0D9488" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="45" stroke-linecap="round"/></svg>
+        <text x="20" y="26" text-anchor="middle" font-size="14" fill="#5EEAD4">[TS]</text>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">TypeScript</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">Next.js • Type-safe APIs</text>
+      </g>
+      <g transform="translate(0, 168)">
+        <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#F87171" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="68" stroke-linecap="round"/></svg>
+        <text x="20" y="26" text-anchor="middle" font-size="14" fill="#F87171">[C]</text>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">C</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">Systems • Memory • Low-level</text>
+      </g>
+      <g transform="translate(0, 204)">
+        <svg width="40" height="40"><circle cx="20" cy="20" r="18" fill="none" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="3"/><circle cx="20" cy="20" r="18" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-dasharray="113 113" stroke-dashoffset="79" stroke-linecap="round"/></svg>
+        <text x="20" y="26" text-anchor="middle" font-size="14" fill="#5EEAD4">[SQL]</text>
+        <text class="sans" x="50" y="28" font-size="13" font-weight="600" fill="#FFFFFF">SQL</text>
+        <text class="mono" x="50" y="42" font-size="8" fill="#9C90B8">Postgres • Queries • Schema</text>
+      </g>
+    </g>
+
+    <!-- Column 2: Security -->
+    <g transform="translate(220, 30)">
+      <text class="mono" x="0" y="0" letter-spacing="2" fill="#5EEAD4">SECURITY</text>
+      <line x1="0" y1="12" x2="160" y2="12" stroke="#5EEAD4" stroke-opacity="0.3"/>
+      <g transform="translate(0, 24)">
+        <text class="mono" x="0" y="18" fill="#9C90B8">NMAP • BURP • WIRESHARK</text>
+        <text class="mono" x="0" y="36" fill="#9C90B8">ZEEK • SNORT • SPLUNK</text>
+        <text class="mono" x="0" y="54" fill="#9C90B8">METASPLOIT • KALI</text>
+      </g>
+      <!-- Proficiency rings -->
+      <g transform="translate(140, 40)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#5EEAD4" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#5EEAD4" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="9" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#5EEAD4">90%</text>
+      </g>
+      <g transform="translate(140, 70)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#5EEAD4" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#0D9488" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="18" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#0D9488">80%</text>
+      </g>
+      <g transform="translate(140, 100)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#5EEAD4" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="35" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#FBBF24">60%</text>
+      </g>
+      <g transform="translate(140, 130)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#5EEAD4" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="44" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#7C3AED">75%</text>
+      </g>
+    </g>
+
+    <!-- Column 3: Systems -->
+    <g transform="translate(420, 30)">
+      <text class="mono" x="0" y="0" letter-spacing="2" fill="#A78BFA">SYSTEMS</text>
+      <line x1="0" y1="12" x2="160" y2="12" stroke="#A78BFA" stroke-opacity="0.3"/>
+      <g transform="translate(0, 24)">
+        <text class="mono" x="0" y="18" fill="#9C90B8">LINUX • WINDOWS • DOCKER</text>
+        <text class="mono" x="0" y="36" fill="#9C90B8">NGINX • APACHE • MYSQL</text>
+        <text class="mono" x="0" y="54" fill="#9C90B8">PHP • GIT • CI/CD</text>
+      </g>
+      <g transform="translate(140, 40)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="9" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#A78BFA">85%</text>
+      </g>
+      <g transform="translate(140, 70)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="26" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#7C3AED">70%</text>
+      </g>
+      <g transform="translate(140, 100)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#0D9488" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="44" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#0D9488">50%</text>
+      </g>
+      <g transform="translate(140, 130)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="53" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#FBBF24">40%</text>
+      </g>
+    </g>
+
+    <!-- Column 4: Build -->
+    <g transform="translate(620, 30)">
+      <text class="mono" x="0" y="0" letter-spacing="2" fill="#FBBF24">BUILD</text>
+      <line x1="0" y1="12" x2="160" y2="12" stroke="#FBBF24" stroke-opacity="0.3"/>
+      <g transform="translate(0, 24)">
+        <text class="mono" x="0" y="18" fill="#9C90B8">NEXT.JS • HONO • PRISMA</text>
+        <text class="mono" x="0" y="36" fill="#9C90B8">NEON PG • GROQ • TURBOREPO</text>
+        <text class="mono" x="0" y="54" fill="#9C90B8">TAILWIND • RADIX • ZOD</text>
+      </g>
+      <g transform="translate(140, 40)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="9" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#FBBF24">80%</text>
+      </g>
+      <g transform="translate(140, 70)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="26" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#7C3AED">70%</text>
+      </g>
+      <g transform="translate(140, 100)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#0D9488" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="35" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#0D9488">65%</text>
+      </g>
+      <g transform="translate(140, 130)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="44" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#A78BFA">75%</text>
+      </g>
+    </g>
+
+    <!-- Column 5: AI Exploration -->
+    <g transform="translate(820, 30)">
+      <text class="mono" x="0" y="0" letter-spacing="2" fill="#A78BFA">AI EXPLORATION</text>
+      <line x1="0" y1="12" x2="160" y2="12" stroke="#A78BFA" stroke-opacity="0.3"/>
+      <g transform="translate(0, 24)">
+        <text class="mono" x="0" y="18" fill="#9C90B8">OLLAMA • HUGGING FACE</text>
+        <text class="mono" x="0" y="36" fill="#9C90B8">PROMPTFOO • GROQ</text>
+        <text class="mono" x="0" y="54" fill="#9C90B8">LLAMA • GUARDRAILS</text>
+      </g>
+      <g transform="translate(140, 40)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="35" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#A78BFA">60%</text>
+      </g>
+      <g transform="translate(140, 70)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#7C3AED" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="53" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#7C3AED">40%</text>
+      </g>
+      <g transform="translate(140, 100)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#F87171" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="62" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#F87171">35%</text>
+      </g>
+      <g transform="translate(140, 130)">
+        <svg width="36" height="36"><circle cx="18" cy="18" r="14" fill="none" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="2.5"/><circle cx="18" cy="18" r="14" fill="none" stroke="#FBBF24" stroke-width="2.5" stroke-dasharray="88 88" stroke-dashoffset="44" stroke-linecap="round"/></svg>
+        <text class="mono" x="10" y="12" fill="#FBBF24">55%</text>
+      </g>
+    </g>
+  </g>
+
+  <text class="mono" x="960" y="350" text-anchor="end" font-size="8" letter-spacing="1.5" fill="#3D3058">TOOLKIT • HONEST LEVELS</text>
+</svg>

@@ -19,6 +19,12 @@ Cybersecurity student with a builder's habit: I take systems apart to learn how 
 
 ## 02 · Experience & education
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/experience.svg">
+  <img src="assets/experience.svg" width="100%" alt="Experience and education timeline — DevOps Apprentice, Cybersecurity Bootcamp, Diploma in IT">
+</picture>
+
 **DevOps Apprentice** · Tesuji Systems <sub>Jan – Sep 2025</sub><br>
 Built and maintained Linux development environments, worked in collaborative Git workflows, containerized applications with Docker, and learned CI/CD and deployment fundamentals in a mentorship-led apprenticeship.
 
@@ -29,6 +35,12 @@ Defensive security, Linux and networking fundamentals, system hardening, threat 
 Networking, operating systems, and infrastructure fundamentals.
 
 ## 03 · Selected work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/selected-work.svg">
+  <img src="assets/selected-work.svg" width="100%" alt="Selected work — Vault church security platform and WebEnum reconnaissance CLI">
+</picture>
 
 ### [Vault — church security & lost-and-found platform](https://github.com/NOVASWAY/v0-lost-and-found-app)
 
@@ -45,6 +57,12 @@ A Python enumerator that fingerprints web services, flags end-of-life software a
 [More repositories →](https://github.com/NOVASWAY?tab=repositories)
 
 ## 04 · Security practice
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/security-practice.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/security-practice.svg">
+  <img src="assets/security-practice.svg" width="100%" alt="Security practice — blue team, offensive basics, detection, AI security, infrastructure labs">
+</picture>
 
 I learn by standing up targets, capturing traffic, and writing down what actually happened. TryHackMe is my main range — currently **Top 1% globally, Level 66 Legend**.
 
@@ -65,6 +83,12 @@ I learn by standing up targets, capturing traffic, and writing down what actuall
 [View full profile →](https://tryhackme.com/p/Clova)
 
 ## 06 · Toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit.svg">
+  <img src="assets/toolkit.svg" width="100%" alt="Toolkit — languages, security tools, systems, build stack, and AI exploration">
+</picture>
 
 **Languages** · `Python` `Bash` `PowerShell` `TypeScript` `C` `SQL`
 

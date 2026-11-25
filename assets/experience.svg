@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="t d">
+  <title id="t">Experience and Education - DevOps Apprentice, Cybersecurity Bootcamp, IT Diploma</title>
+  <desc id="d">Visual timeline of experience and education: Tesuji Systems DevOps Apprentice (Jan-Sep 2025), Moringa School Cybersecurity Bootcamp (2025), PAC University Diploma in IT (2025).</desc>
+  <defs>
+    <linearGradient id="expBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080510"/>
+      <stop offset="1" stop-color="#120A24"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A1030"/>
+      <stop offset="1" stop-color="#120820"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#0D9488"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#7C3AED" fill-opacity="0.06"/>
+    </pattern>
+    <filter id="iconGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    .icon{filter:url(#iconGlow); animation:float 3.5s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){.icon{animation:none}}
+  </style>
+  <rect width="1000" height="320" fill="url(#expBg)"/>
+  <rect width="1000" height="320" fill="url(#dots)"/>
+
+  <line x1="180" y1="40" x2="180" y2="280" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="4 8" stroke-linecap="round"/>
+
+  <g transform="translate(220, 30)">
+    <rect x="0" y="0" width="560" height="84" rx="16" fill="url(#cardGrad)" stroke="#7C3AED" stroke-opacity="0.3"/>
+    <g class="icon" transform="translate(24, 22)">
+      <circle cx="20" cy="20" r="20" fill="#7C3AED" fill-opacity="0.2"/>
+      <text x="20" y="26" text-anchor="middle" font-size="18" fill="#A78BFA">[DEVOPS]</text>
+    </g>
+    <text class="sans" x="72" y="30" font-size="18" font-weight="700" fill="#FFFFFF">DevOps Apprentice</text>
+    <text class="mono" x="72" y="50" font-size="10" letter-spacing="1.6" fill="#A78BFA">TESUJI SYSTEMS</text>
+    <text class="mono" x="72" y="64" font-size="9" fill="#9C90B8">Jan - Sep 2025 . Mentorship-led apprenticeship</text>
+    <text class="mono" x="450" y="64" font-size="9" fill="#7C3AED">LINUX . GIT . DOCKER . CI/CD</text>
+  </g>
+
+  <circle cx="180" cy="114" r="10" fill="#7C3AED" stroke="#080510" stroke-width="4"/>
+  <circle cx="180" cy="114" r="6" fill="#A78BFA"/>
+
+  <g transform="translate(220, 134)">
+    <rect x="0" y="0" width="560" height="84" rx="16" fill="url(#cardGrad)" stroke="#0D9488" stroke-opacity="0.3"/>
+    <g class="icon" transform="translate(24, 22)">
+      <circle cx="20" cy="20" r="20" fill="#0D9488" fill-opacity="0.2"/>
+      <text x="20" y="26" text-anchor="middle" font-size="18" fill="#5EEAD4">[SEC]</text>
+    </g>
+    <text class="sans" x="72" y="30" font-size="18" font-weight="700" fill="#FFFFFF">Cybersecurity Bootcamp</text>
+    <text class="mono" x="72" y="50" font-size="10" letter-spacing="1.6" fill="#5EEAD4">MORINGA SCHOOL</text>
+    <text class="mono" x="72" y="64" font-size="9" fill="#9C90B8">2025 . Defensive security . Lab-based</text>
+    <text class="mono" x="450" y="64" font-size="9" fill="#0D9488">SPLUNK . ZEEK . HARDENING . MITRE</text>
+  </g>
+
+  <circle cx="180" cy="218" r="10" fill="#0D9488" stroke="#080510" stroke-width="4"/>
+  <circle cx="180" cy="218" r="6" fill="#5EEAD4"/>
+
+  <g transform="translate(220, 238)">
+    <rect x="0" y="0" width="560" height="84" rx="16" fill="url(#cardGrad)" stroke="#FBBF24" stroke-opacity="0.3"/>
+    <g class="icon" transform="translate(24, 22)">
+      <circle cx="20" cy="20" r="20" fill="#FBBF24" fill-opacity="0.2"/>
+      <text x="20" y="26" text-anchor="middle" font-size="18" fill="#FBBF24">[EDU]</text>
+    </g>
+    <text class="sans" x="72" y="30" font-size="18" font-weight="700" fill="#FFFFFF">Diploma in Information Technology</text>
+    <text class="mono" x="72" y="50" font-size="10" letter-spacing="1.6" fill="#FBBF24">PAC UNIVERSITY</text>
+    <text class="mono" x="72" y="64" font-size="9" fill="#9C90B8">2025 . Networking . OS . Infrastructure</text>
+    <text class="mono" x="450" y="64" font-size="9" fill="#FBBF24">TCP/IP . LINUX . WINDOWS . NETWORKS</text>
+  </g>
+
+  <g transform="translate(800, 40)">
+    <text class="mono" x="0" y="0" font-size="9" letter-spacing="2" fill="#7C3AED">SUMMARY</text>
+    <line x1="0" y1="10" x2="140" y2="10" stroke="#7C3AED" stroke-opacity="0.3"/>
+    <text class="mono" x="0" y="36" font-size="11" fill="#E8E0F8">3 PROGRAMS</text>
+    <text class="mono" x="0" y="60" font-size="11" fill="#E8E0F8">2025 FOCUS</text>
+    <text class="mono" x="0" y="84" font-size="11" fill="#E8E0F8">DEVOPS + SEC</text>
+    <text class="mono" x="0" y="108" font-size="11" fill="#E8E0F8">HANDS-ON</text>
+  </g>
+
+  <text class="mono" x="960" y="310" text-anchor="end" font-size="8" letter-spacing="1.5" fill="#3D3058">EXPERIENCE . 2025</text>
+</svg>
