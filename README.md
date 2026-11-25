@@ -90,15 +90,66 @@ I learn by standing up targets, capturing traffic, and writing down what actuall
   <img src="assets/toolkit.svg" width="100%" alt="Toolkit — languages, security tools, systems, build stack, and AI exploration">
 </picture>
 
-**Languages** · `Python` `Bash` `PowerShell` `TypeScript` `C` `SQL`
+<div align="center">
 
-**Security** · `Nmap` `Burp Suite` `Wireshark` `Zeek` `Snort` `Splunk` `Metasploit` `Kali Linux`
+**Languages** · 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL">
 
-**Systems** · `Linux` `Windows` `Docker` `Nginx` `Apache` `MySQL` `PHP` `Git`
+</div>
 
-**Build** · `Next.js` `Hono` `Prisma` `Neon Postgres` `Groq` `Turborepo`
+<div align="center">
 
-**AI exploration** · `Ollama` `Hugging Face` `Promptfoo`
+**Security** · 
+<img src="https://img.shields.io/badge/Nmap-369033?style=for-the-badge&logoColor=white" alt="Nmap">&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-FB5501?style=for-the-badge&logoColor=white" alt="Burp Suite">&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-963725?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">&nbsp;
+<img src="https://img.shields.io/badge/Zeek-0B5C95?style=for-the-badge&logoColor=white" alt="Zeek">&nbsp;
+<img src="https://img.shields.io/badge/Snort-CC172B?style=for-the-badge&logoColor=white" alt="Snort">&nbsp;
+<img src="https://img.shields.io/badge/Splunk-F20032?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-EB4C5A?style=for-the-badge&logoColor=white" alt="Metasploit">&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-2646E9?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+
+</div>
+
+<div align="center">
+
+**Systems** · 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">&nbsp;
+<img src="https://img.shields.io/badge/Apache-D3242F?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+</div>
+
+<div align="center">
+
+**Build** · 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;
+<img src="https://img.shields.io/badge/Hono-000000?style=for-the-badge&logoColor=white" alt="Hono">&nbsp;
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">&nbsp;
+<img src="https://img.shields.io/badge/Neon_Postgres-080C21?style=for-the-badge&logoColor=white" alt="Neon Postgres">&nbsp;
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq">&nbsp;
+<img src="https://img.shields.io/badge/Turborepo-6E40C9?style=for-the-badge&logoColor=white" alt="Turborepo">
+
+</div>
+
+<div align="center">
+
+**AI exploration** · 
+<img src="https://img.shields.io/badge/Ollama-5A4D84?style=for-the-badge&logoColor=white" alt="Ollama">&nbsp;
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">&nbsp;
+<img src="https://img.shields.io/badge/Promptfoo-000000?style=for-the-badge&logoColor=white" alt="Promptfoo">
+
+</div>
 
 <sub>Comfortable with the fundamentals, honest about the learning curve. Currently going deeper on WireGuard, cloud hardening, and Splunk alert tuning.</sub>
 
